@@ -1,4 +1,5 @@
-<h2>Plot assistant - Graph visualization framework for the industrial control systems</h2> <br />  
+<h2>Plot assistant - Graph visualization framework for the industrial control systems</h2> <br />
+
 **Graph visualization framework as a custom feature interfaced with industrial SCADA-based HMI**
 
 This is a basic showcase poroject with the very limited functionality,
