@@ -1,4 +1,4 @@
-#Plot assistant  Graph visualization framework as a custom feature interfaced with industrial SCADA-based HMI
+**Plot assistant**\  Graph visualization framework as a custom feature interfaced with industrial SCADA-based HMI
 
 This is a basic showcase poroject with the very limited functionality,
 providing proof of concept for proposed graph visualization framework architecture implemented with Plotnine Python data visualization library 
