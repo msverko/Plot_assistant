@@ -28,6 +28,8 @@ For this example the undeline HMI was Siemens WinCC, where three push-button obj
 the graphics designer that performs tasks of activating the framework UI form, reading tag names previously selected from the list box and saved in csv file,
 and storing corresponding tag values read from the runtime database, to make them available for the visualization framework.
 
+<img src="HMI-page.png" alt="Alt text" title="HMI page implementing Plot assisitant">
+
 Following functionality is implemented on the HMI side as a minimal integration requirenments:
 
 **Select Chart button:**
