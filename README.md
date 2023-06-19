@@ -31,13 +31,20 @@ and storing corresponding tag values read from the runtime database, to make the
 Following functionality is implemented on the HMI side as a minimal integration requirenments:
 
 **Select Chart button:**
-Sub OnClick(ByVal Item)                    
+Sub OnClick(ByVal Item)
+
 Dim guiPth
+
 guiPth = HMIRuntime.ActiveProject.Path & "\PlotAssistant\gui.lnk"
+
 Dim objWshShell
+
 Set objWshShell = CreateObject("Wscript.Shell")
+
 objWshShell.Run guiPth, 1
+
 End Sub
+
 
 **Load values button:**
 Sub OnClick(ByVal Item)                             
