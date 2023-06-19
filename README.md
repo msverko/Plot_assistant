@@ -12,10 +12,10 @@ STAT_P1_WORK_HRS,STAT_P2_WORK_HRS,STAT_P3_WORK_HRS
 
 The file **ChartConfig.ini** contains basic parameters needed to plot the chart:
 [GraphSetup1]
-geometry = Vertical Bar Chart
-title = Pums runtime hrs
-x_label = Pums
-y_label = hrs
+geometry = Vertical Bar Chart  
+title = Pums runtime hrs  
+x_label = Pums  
+y_label = hrs  
 
 Run **select_plot.py** to plot the chart form with geometry set in ChartConfig.ini (currently only Vertical Bar Chart),
 and with data from CurentData.csv
